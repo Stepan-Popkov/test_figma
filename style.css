@@ -397,13 +397,9 @@ line-height: 25.2px;
     display: flex;
     width: 98px;
     height: 98px;
-    border-radius: 70px;
     margin-bottom: 12px;
     margin-left: 184px;
     margin-right: 184px;
-    background-color: #262626;
-    align-items: center;
-    justify-content: center;
 }
 .our_rh{
     display: flex;
@@ -431,18 +427,18 @@ line-height: 25.2px;
 }
 #suitcase{
     display: flex;
-    width: 34px;
-    height: 34px;
+    width: 98px;
+    height: 98px;
 }
 #donwlod{
     display: flex;
-    width: 34px;
-    height: 34px;
+    width: 98px;
+    height: 98px;
 }
 #load{
     display: flex;
-    width: 34px;
-    height: 34px;
+    width: 98px;
+    height: 98px;
 }
 .our_rc{
     display: flex;
@@ -480,13 +476,9 @@ line-height: 25.2px;
     display: flex;
     width: 98px;
     height: 98px;
-    border-radius: 70px;
     margin-bottom: 12px;
     margin-left: 184px;
     margin-right: 184px;
-    background-color: #262626;
-    align-items: center;
-    justify-content: center;
 }
 .our_rl{
     display: flex;
@@ -500,13 +492,9 @@ line-height: 25.2px;
     display: flex;
     width: 98px;
     height: 98px;
-    border-radius: 70px;
     margin-bottom: 12px;
     margin-left: 184px;
     margin-right: 184px;
-    background-color: #262626;
-    align-items: center;
-    justify-content: center;
 
 }
 .our_lh{
