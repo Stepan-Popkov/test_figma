@@ -1521,6 +1521,36 @@ height: 67px;
     gap: 50px;
     margin-top: 100px;
 }
+.fake_slider{
+    display: flex;
+    position: relative;
+    width: 1376px;
+    overflow: hidden;
+
+}
+.fade_right, .fade_left{
+    display: flex;
+    position: absolute;
+    top: 0;
+    width: 556px;
+    height: 100%;
+    pointer-events: none;
+    z-index: 2;
+
+
+}
+.fade_left{
+    display: flex;
+    left: 0;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.6), transparent);
+
+}
+.fade_right{
+    display: flex;
+    right: 0;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.6), transparent);
+    transform: rotate(180deg);
+}
 .strelohka{
     display: flex;
     width: 62px;
